@@ -28,6 +28,5 @@
     <a href = "https://www.linkedin.com/in/diony-silva-costa-77b9a3225">
     <img width="30" src="https://i.ibb.co/k2hCVWs/icon-linkedin.png" alt="icon-linkedin" border="0">
     </a>   
-</div>
-  
-![Snake animation](https://github.com/LuigiGF/wazark/blob/output/github-contribution-grid-snake.svg)
+</div>  
+
