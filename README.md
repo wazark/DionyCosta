@@ -2,11 +2,17 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=wazark&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=wazark&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazark&layout=compact&langs_count=16&theme=ayu-mirage"/>
 </div>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://i.ibb.co/bPK9BKq/coding.gif" alt="coding">    
