@@ -2,8 +2,8 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=wazar&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazar&layout=compact&langs_count=16&theme=ayu-mirage"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=wazark&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazark&layout=compact&langs_count=16&theme=ayu-mirage"/>
 </div>
 <br>
 
